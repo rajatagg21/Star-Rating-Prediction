@@ -76,8 +76,4 @@ Random Forest seems best but comparably for larger datasets, its training time w
 
 Elaborative presentation of the work => [Star Rating Prediction](https://docs.google.com/presentation/d/1jWPC47kwKx-dj9R87S0Q8plJXZjShthHp8nNo_HAJxg/edit?usp=sharing)
 
-Link to the Kaggle Notebooks:
-
-1. [Exploratory Data Analysis](https://www.kaggle.com/code/rajatagg/star-rating-prediction-part-1)
-2. [Feature Vector Generation](https://www.kaggle.com/code/rajatagg/star-rating-prediction-part-4)
-3. [Model Building & Prediction](https://www.kaggle.com/code/rajatagg/star-rating-prediction-re-iterated/notebook?scriptVersionId=97022996)
+Link to the Kaggle Notebook: [Model Building & Prediction](https://www.kaggle.com/code/rajatagg/star-rating-prediction-re-iterated/notebook?scriptVersionId=97022996)
